@@ -1,6 +1,6 @@
 <!-- Format thanks to Shawn Charles, check his github here https://github.com/CharlesCreativeContent -->
 
-<img src="https://i.imgur.com/n8sif0l.png" width="100%">
+<img src="./github banner.png" width="100%">
 
 <p align="center">
   <a href="https://gabriel-dev.netlify.app/" target="_blank">
