@@ -1,6 +1,6 @@
 <!-- Format thanks to Shawn Charles, check his github here https://github.com/CharlesCreativeContent -->
 
-<img src="./images/github-banner-final.png" width="100%">
+<img src="images/github-banner-final.png" width="100%">
 
 <p align="center">
   <a href="https://gabriel-dev.netlify.app/" target="_blank">
@@ -28,88 +28,86 @@ I'm a software enginner who is passionate about making the web more accessible t
 
 See [my website](https://gabriel-dev.netlify.app/) for more information!
 
-<!--
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Twisted Scissors Salon</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://gabriel-dev.netlify.app/html/hairsalon/index.html">
+            <img src="images/twisted-scissors-moving.gif" width="100%" alt="Twisted Scissors Salon"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/Gabriel-Develops/Portfolio-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://gabriel-dev.netlify.app/html/hairsalon/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Twisted Scissors site debuting stylists, gallery of looks and services.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Pellicano Pasta</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://gabriel-dev.netlify.app/html/pastaonly/index.html">
+            <img src="images/pellicano-pasta-moving.gif" width="100%"  alt="Pellicano Pasta"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/Gabriel-Develops/Portfolio-Website/tree/master/html/pastaonly" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://gabriel-dev.netlify.app/html/pastaonly/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Italian restuarant's menu showcased in an elegant design.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Gabriel-Dev Profile</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://gabriel-dev.netlify.app/">
+          <img src="images/gabriel-dev-preview-small.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/Gabriel-Develops/Portfolio-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://gabriel-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Soundboard for Content Creators</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://gabriel-dev.netlify.app/html/soundboard/index.html">
+          <img src="images/soundboard-moving.apng" width="100%" alt="Soundboard"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/Gabriel-Develops/Portfolio-Website/tree/master/html/soundboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://gabriel-dev.netlify.app/html/soundboard/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Soundboard orientated for content creators. Customizable title, colors. Rememebers sound effects across sessions.</p>
     </td>
   </tr>
 </table>
--->
 
 <h1 align="center">Technologies</h1>
 
