@@ -11,13 +11,11 @@
   </a>
   <a href="https://twitter.com/GabrielDevelops" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logoColor=white"/>
-  </a>
-  <!--
-  <a href="" target="_blank">
+  </a> 
+  <a href="https://angel.co/u/gabrieldevelops" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logoColor=white"/>
   </a>
-  -->
-  <!--
+ <!--
   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logoColor=white"/>
   </a>
