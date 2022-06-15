@@ -102,7 +102,7 @@ See [my website](https://gabriel-dev.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Soundboard orientated for content creators. Customizable title, colors. Rememebers sound effects across sessions.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Soundboard orientated for content creators. Customizable title, colors. Remembers sound effects across sessions.</p>
     </td>
   </tr>
 </table>
